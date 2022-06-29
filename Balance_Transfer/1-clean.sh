@@ -31,4 +31,4 @@
   docker system prune
   echo "================================================================="
   echo "All stopped containers, volumes, network and system are removed"
-# Docker part end
+# Docker part end.
