@@ -1,2 +1,4 @@
-# HLF-Workshop
-Simple Network for the workshop
+# HLF
+Simple Network for hyperledger fabric for balance transfer chaincode..
+
+
